@@ -1,0 +1,19 @@
+.main_header {
+    width: 100vw;
+    height: 5vh;
+
+    background-color: #2d8cf0;
+
+    display: flex;
+
+    justify-content: flex-end;
+    align-items: center;
+
+    padding-right: 3rem;
+
+    font-family: Arial, serif;
+
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+}
