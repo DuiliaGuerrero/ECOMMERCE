@@ -17,3 +17,13 @@
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
     box-sizing: border-box;         /* Opera/IE 8+ */
 }
+
+.active{
+    font-weight: bold;
+}
+
+.nav-item{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #ffffff;
+}

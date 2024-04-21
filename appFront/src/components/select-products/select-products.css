@@ -1,0 +1,11 @@
+.sel-products-container{
+    display: flex;
+    gap: 1rem;
+    padding: 20px;
+    scroll-behavior: smooth;
+}
+
+
+.sel-products{
+
+}

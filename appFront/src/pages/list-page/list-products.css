@@ -1,0 +1,15 @@
+.cards-section{
+    width: 70vw;
+    margin: 1rem auto;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 1rem;
+}
+
+.sel-cards-section {
+    overflow-x: scroll;
+    display: flex;
+}
